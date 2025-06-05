@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #F5F5F5;
+  color: #333;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 1rem;
+}
+.card {
+  background: #FFF;
+  border-radius: 12px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+button {
+  background: #4A90E2;
+  color: #FFF;
+  border: none;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+button:disabled {
+  background: #CCC;
+  cursor: not-allowed;
+}
+select {
+  padding: 0.5rem;
+  border-radius: 8px;
+  border: 1px solid #CCC;
+  margin-bottom: 1rem;
+}
+textarea, input[type="text"] {
+  width: 100%;
+  padding: 0.5rem;
+  border-radius: 8px;
+  border: 1px solid #CCC;
+  margin-bottom: 0.5rem;
+  resize: vertical;
+}
+.tracker {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 0.5rem;
+}
+.tracker span {
+  font-size: 2rem;
+  cursor: pointer;
+}
+.history-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.history-table th, .history-table td {
+  border: 1px solid #EEE;
+  padding: 0.5rem;
+  text-align: left;
+}
