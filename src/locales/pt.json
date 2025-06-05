@@ -1,0 +1,20 @@
+{
+  "app_title": "Clareza Emocional",
+  "affirmation_title": "Afirmação do Dia",
+  "generate_affirmation": "Gerar Afirmação",
+  "reflection_title": "Reflexão do Dia",
+  "reflection_placeholder": "O que sentiste hoje? O que teu corpo indicou?...",
+  "save_reflection": "Guardar Reflexão",
+  "note_title": "Nota Pessoal",
+  "note_placeholder": "O que precisas de ti hoje?",
+  "save_note": "Guardar Nota",
+  "mood_title": "Como te sentes hoje?",
+  "history_title": "Histórico de Mood e Notas",
+  "dates": "Data",
+  "mood": "Humor",
+  "note": "Nota",
+  "bot_disclaimer": "Esta resposta é gerada por IA com base em psicologia e não substitui um terapeuta humano. Nenhum dado é guardado.",
+  "privacy_notice": "Privado e Seguro",
+  "language": "Idioma",
+  "loading": "A gerar..."
+}
